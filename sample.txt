@@ -1,2 +1,4 @@
-some sample file
+
+
 Added another line here...
+// Merge conflict resolved
